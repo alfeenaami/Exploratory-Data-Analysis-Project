@@ -9,9 +9,5 @@ Cleaned and standardized fields (GDP, inflation, poverty, unemployment, costs, i
 Conducted exploratory analysis to identify patterns and anomalies.
 Prepared the dataset for later visualization in Power BI.
 
-🔹 Next Steps
-Add calculated columns (e.g., war duration, collapse categories).
-Create DAX measures for KPIs.
-Build interactive Power BI dashboards with slicers and visuals.
-Document insights and storytelling for portfolio presentation.
+
 
