@@ -1,4 +1,4 @@
-### Global War Impact Analysis — Exploratory Data Analysis (EDA)
+## Global War Impact Analysis — Exploratory Data Analysis (EDA)
 
 ## Overview
 
